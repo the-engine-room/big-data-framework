@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<!-- <section class="main-content" id="impress"> -->
+
+	    {% for post in site.posts reversed %}
+	    	{% if post.title == "Oversight" %}
+	    		<div class="step" data-x="500" data-y="0">
+		    {% elsif post.title == "Data Ethics" %}
+	    		<div class="step" data-x="1000" data-y="0">
+		    {% else %}
+		    	<div class="step">
+		    {%endif %}
+		        <!-- <article class="module color-3"> -->
+		                <h1>{{ post.title }}</h1>
+		                {{ post.content }}
+		        <!-- </article> -->
+	    	</div>
+	    {% endfor %}
+
+<!-- </section> -->
+
+

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Verifying & Cleaning"
+---
+
+- Do you trust / understand the methodology of the data collection? (particularly if you are working with data collected by others)
+- Do you know who collected the data?
+- Do you know how they collected it and what assumptions they were making?
+- Are you an expert in the subject matter or do you need help with verification?
+- Are the subjects of the data research inputting into verification?
+- What process will you use to make decisions around deidentification/anonymization of data sets? Should you work in resources to engage with eternal experts?
+
+##TO DO:
+
+- *Develop a plan of action for verifying and cleaning*
