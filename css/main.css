@@ -67,6 +67,10 @@ nav {
     }
 
 
+article {
+	width: 800px;
+}
+
 article p a {
     border-bottom: .125em solid #ccc;
     display: inline;

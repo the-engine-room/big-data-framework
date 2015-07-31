@@ -6,16 +6,24 @@ layout: default
 
 	    {% for post in site.posts reversed %}
 	    	{% if post.title == "Oversight" %}
-	    		<div class="step" data-x="500" data-y="0">
+	    		<div id="oversight" class="step" data-x="-500" data-y="-500">
 		    {% elsif post.title == "Data Ethics" %}
-	    		<div class="step" data-x="1000" data-y="0">
+	    		<div id="data-ethics" class="step" data-x="0" data-y="-500">
+		    {% elsif post.title == "Risk-Benefit Analysis" %}
+	    		<div id="risk-benefit-analysis" class="step" data-x="500" data-y="-500">
+		    {% elsif post.title == "Use of Data" %}
+	    		<div id="use-of-data" class="step" data-x="1000" data-y="0">
+			{% elsif post.title == "Data" %}
+	    		<div id="data" class="step" data-x="500" data-y="500">
+		    {% elsif post.title == "Verifying & Cleaning" %}
+	    		<div id="verifying-cleaning" class="step" data-x="-500" data-y="500">
 		    {% else %}
 		    	<div class="step">
 		    {%endif %}
-		        <!-- <article class="module color-3"> -->
+		        <article class="module color-3">
 		                <h1>{{ post.title }}</h1>
 		                {{ post.content }}
-		        <!-- </article> -->
+		        </article>
 	    	</div>
 	    {% endfor %}
 
