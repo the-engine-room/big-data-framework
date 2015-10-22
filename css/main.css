@@ -17,7 +17,7 @@
 .color-2 { background: #34495e; } /* Description background */
 .color-3 { background: #f2f2f2; } /* Modules background */
 .color-4 { background: #7f8c8d; } /* Main menu background */
-.rdf-red {color: #E93F36}
+.rdf-red {color: #E93F36;}
 
 
 /* ------------------------------------------------------------------------
@@ -25,7 +25,7 @@
 -------------------------------------------------------------------------*/
 
 html, body {
-    background: #888888; /*#d1d1d1;*/
+    background: #999; /*#d1d1d1;*/
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     /*text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);*/
