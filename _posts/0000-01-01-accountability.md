@@ -7,6 +7,6 @@ title:  "Accountability & M&E"
 - Should your organisation implement a principled policy or guideline in relation to data use? Should there be an institutional review board? An ethics committee?
 - Will there be feedback to communities on how that data is being represented and used?
 
-##TO DO:
+##What next:
 
 Outline a response in regards to the above outlined questions in relation to your work/project
