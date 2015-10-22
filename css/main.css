@@ -125,6 +125,8 @@ article p a {
 -  The content. -
 -------------------------------------------------------------------------*/
 
+#overview { width:375px; }
+
 .main-content {
 /*     float: right; */
     padding: 0;
