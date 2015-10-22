@@ -12,4 +12,4 @@ title:  "Risk-Benefit Analysis"
 
 ##What next:
 
-*Develop a map of the benefits and risks associated with your project, taking into consideration the questions outlined above*
+- *Develop a map of the benefits and risks associated with your project, taking into consideration the questions outlined above*
