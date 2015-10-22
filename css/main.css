@@ -25,7 +25,7 @@
 -------------------------------------------------------------------------*/
 
 html, body {
-    background: #d1d1d1;
+    background: #737373; /*#d1d1d1;*/
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     /*text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);*/
@@ -49,7 +49,7 @@ h1, h2, h3 {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
 	color: #222;
-	margin-top: 36px;
+	margin-top: 20px;
 	}
 
 
@@ -125,7 +125,13 @@ article p a {
 -  The content. -
 -------------------------------------------------------------------------*/
 
-#overview { width:375px; }
+#overview { width:400px; }
+
+.logo {
+    float: left;
+    height: 80px;
+    margin-right: 10px;
+}
 
 .main-content {
 /*     float: right; */
