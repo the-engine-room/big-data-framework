@@ -9,4 +9,4 @@ title:  "Accountability & M&E"
 
 ##What next:
 
-Outline a response in regards to the above outlined questions in relation to your work/project
+- *Outline a response in regards to the above outlined questions in relation to your work/project*
