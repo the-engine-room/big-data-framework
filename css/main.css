@@ -128,6 +128,7 @@ article p a {
 
 .popup_div {
     position:absolute;
+    display:none;
     left:100px !important;
     top:100px !important;
     background-color:#f2f2f2;
